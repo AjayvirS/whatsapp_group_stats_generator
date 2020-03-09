@@ -4,8 +4,8 @@ this program takes the whatsapp group chat (media should be omitted for the prog
 
 ## USAGE:
 
-usage: <prog name> <path> <num pie chart>
+usage: \<prog name\> \<path\> \<num pie chart\>
 
-<path>: path of the file
+\<path\>: path of the file
 
-<num pie chart>: with many members, the pie chart might look dirty, use this argument to limit the number of participants shown on pie chart. For instance using 7 will group everyone except the top 7 contributors as "Others"
+\<num pie chart\>: with many members, the pie chart might look dirty, use this argument to limit the number of participants shown on pie chart. For instance using 7 will group everyone except the top 7 contributors as "Others"
