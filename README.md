@@ -5,7 +5,7 @@ this program takes the whatsapp group chat (media should be omitted for the prog
 
 ## USAGE:
 
-usage: python3 rft_stats \<path\> \<num pie chart\>
+usage: python3 rft_stats.py \<path\> \<num pie chart\>
 
 \<path\>: path of the file
 
